@@ -33,7 +33,8 @@ const apikey = "YOUR_API_KEY_HERE";
 
 #Screenshots
 
-![image](https://github.com/user-attachments/assets/889393da-03fc-4bce-a8b7-4e4c4bb16590)
+![WhatsApp Image 2024-10-17 at 19 27 32_414f14cd](https://github.com/user-attachments/assets/5299025b-633c-405e-8339-33dde1acce33)
+
 
 
 License
